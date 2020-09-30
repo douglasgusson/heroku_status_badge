@@ -1,0 +1,1 @@
+web: gunicorn heroku_status_badge.app:app --preload
